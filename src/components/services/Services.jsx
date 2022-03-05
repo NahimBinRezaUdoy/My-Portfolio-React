@@ -49,15 +49,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>I try my best</p>
+              <p>I try my best to deliver</p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>to deliver highly available</p>
+              <p> highly available functional</p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>functional and visually engaging </p>
+              <p> and visually engaging </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
