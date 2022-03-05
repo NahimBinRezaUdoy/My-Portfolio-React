@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/aboutme.jpg'
+import ME from '../../assets/aboutMe.jpeg'
 import {FaAward} from 'react-icons/fa'
 import {FaUsers} from 'react-icons/fa'
 import {AiFillProject} from 'react-icons/ai'
@@ -8,18 +8,20 @@ const About = () => {
   return (
     <section id='about'>
       <h5>Get to know</h5>
-      <h2>About Me</h2>
+      <h2 className='title'>About Me</h2>
       
       <div className="container about__container">
         <div className="about__me">
-          <img src={ME} alt="About Image" />
+          <div className="about__me-image">
+            <img src={ME} alt="About Image" />
+          </div>
         </div>
         <div className="about__content">
           <div className="about__cards">
             <article className="about__card">
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Years Working Experience</small>
+              <small>1+ Years</small>
             </article>
             <article className="about__card">
               <FaUsers className='about__icon'/>
@@ -29,7 +31,7 @@ const About = () => {
             <article className="about__card">
               <AiFillProject className='about__icon'/>
               <h5>Project</h5>
-              <small>15+ Completed Project</small>
+              <small>15+ Project</small>
             </article>
           </div>
           
