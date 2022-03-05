@@ -21,23 +21,23 @@ const Services = () => {
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> web dev service </p>
+              <p>Web dev service </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> using your </p>
+              <p>Using your </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> requirements specification </p>
+              <p>Requirements specification </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> requirements specification </p>
+              <p>Requirements specification </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> requirements specification </p>
+              <p>Requirements specification </p>
             </li>
           </ul>
         </div>
@@ -53,27 +53,27 @@ const Services = () => {
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> highly available functional</p>
+              <p>Highly available functional</p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> and visually engaging </p>
+              <p>And visually engaging </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> web products and</p>
+              <p>Web products and</p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>both platform-based and </p>
+              <p>Both platform-based and </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> custom web solutions </p>
+              <p>Custom web solutions </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> for enterprises.</p>
+              <p>For enterprises.</p>
             </li>
           </ul>
         </div>
@@ -85,27 +85,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>Web support and maintenance</p>
+              <p>Web support and</p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>services are aimed </p>
+              <p>Maintenance services are  </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>at ensuring that websites</p>
+              <p>Aimed at ensuring that </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>are highly available </p>
+              <p>Are highly available </p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p> reliable and stay relevant</p>
+              <p>Reliable and stay relevant</p>
             </li>
             <li>
               <BsFillPatchCheckFill className='service__list-icon'/>
-              <p>to current business needs</p>
+              <p>To current business needs</p>
             </li>
           </ul>
         </div>
