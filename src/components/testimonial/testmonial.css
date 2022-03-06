@@ -1,5 +1,6 @@
 .container.testimonial__container {
-  width: 40%;
+  width: 50%;
+  padding-bottom: 3.5rem;
 }
 
 .testimonial {
@@ -34,7 +35,7 @@
 /*==========Media Queries (Medium Devices)==============*/
 @media screen and (max-width: 1024px) {
   .container.testimonial__container {
-    width: 60%;
+    width: 70%;
   }
 }
 
