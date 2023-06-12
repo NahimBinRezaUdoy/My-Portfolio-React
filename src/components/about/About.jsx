@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>1+ Years</small>
+              <small>2+ Years</small>
             </article>
             <article className="about__card">
               <FaUsers className='about__icon'/>
@@ -35,7 +35,8 @@ const About = () => {
             </article>
           </div>
           
-          <p>My name is Nahim Bin Reza. You can call me Udoy. I belong to Mymensingh. My aim is to build a career as a Web Developer . I am a self motivated person.My hobby is to gather Knowledge on technology. I always maintain a positive attitude towards others.My strength is smiling in pain,patience.My weakness is more sensetive.That's all about me.Thnak you.</p>
+          {/* <p>My name is Nahim Bin Reza. You can call me Udoy. I belong to Mymensingh. My aim is to build a career as a Web Developer . I am a self motivated person.My hobby is to gather Knowledge on technology. I always maintain a positive attitude towards others.My strength is smiling in pain,patience.My weakness is more sensetive.That's all about me.Thnak you.</p> */}
+          <p>Successfully implemented and delivered new services across various projects, demonstrating my ability to handle complex development tasks. Played a crucial role in verifying the proper functioning of implemented solutions. Maintained effective communication and collaboration with responsible persons and team members. Demonstrated a commitment to continuous learning and staying informed about industry trends, new technologies</p>
 
           <a href="#contact" className='btn btn-priamry'>Let's Talk</a>
         </div>
